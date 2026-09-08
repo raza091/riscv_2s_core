@@ -1,0 +1,30 @@
+# Simulation outputs
+sim/
+*.vcd
+*.vvp
+*.log
+*.wlf
+transcript
+work/
+xcelium.d/
+*.shm
+*.trn
+*.dsn
+obj_dir/
+
+# Editor / OS files
+*.swp
+*~
+.DS_Store
+*.bak
+
+# Cadence / Questa temporary
+INCA_libs/
+*.history
+*.key
+ncvlog.log
+irun.log
+
+# Synthesis (later)
+syn/genus/reports/
+syn/genus/*.log

@@ -1,0 +1,3 @@
+VCD info: dumpfile sim/core.vcd opened for output.
+Simulation finished (timeout)
+tb/tb_riscv_2s.sv:77: $finish called at 5000 (1s)
